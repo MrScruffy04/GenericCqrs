@@ -1,0 +1,2 @@
+# GenericCqrs
+Reusable CQRS framework
